@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### private data involved files ###
+application.properties
